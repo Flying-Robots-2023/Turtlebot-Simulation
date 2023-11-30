@@ -14,7 +14,7 @@ This guide provides instructions for running a Turtlebot simulation inside a Doc
 First, clone the repository containing the necessary Dockerfile and other resources:
 
 ```bash
-git clone https://github.com/Flying-Robots-LARC-2023/Turtlebot---Simulation.git
+git clone https://github.com/Flying-Robots-LARC-2023/Turtlebot-Simulation.git
 ```
 
 
