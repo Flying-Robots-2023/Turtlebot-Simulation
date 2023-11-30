@@ -14,10 +14,9 @@ This guide provides instructions for running a Turtlebot simulation inside a Doc
 First, clone the repository containing the necessary Dockerfile and other resources:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Flying-Robots-LARC-2023/Turtlebot---Simulation.git
 ```
 
-Replace `<repository-url>` with the actual URL of the GitHub repository.
 
 ### 2. Build the Docker Image
 
