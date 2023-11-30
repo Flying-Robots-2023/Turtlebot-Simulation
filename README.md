@@ -35,6 +35,7 @@ To run the Docker container, use the provided shell script `run.sh`. This script
 Open two terminal windows. In each terminal, navigate to the directory containing `run.sh` and execute:
 
 ```bash
+xhost +
 ./run.sh
 ```
 
